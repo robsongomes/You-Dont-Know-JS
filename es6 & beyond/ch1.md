@@ -1,17 +1,19 @@
-# You Don't Know JS: ES6 & Beyond
-# Chapter 1: ES? Now & Future
+# You Don't Know JS: ES6 e Além
+# Capítulo 1: ES? Agora e o Futuro
 
-Before you dive into this book, you should have a solid working proficiency over JavaScript up to the most recent standard (at the time of this writing), which is commonly called *ES5* (technically ES 5.1). Here, we plan to talk squarely about the upcoming *ES6*, as well as cast our vision beyond to understand how JS will evolve moving forward.
+Antes de entrar a fundo neste livro, você deve ter um sólido conhecimento sobre JavaScript até sua versão mais recente (até o momento desta escrita), que é comumente chamada de *ES5* (tecnicamente ES 5.1). Aqui, nós iremos falar precisamente sobre a próxima versão: *ES6*, bem como olharmos adiante para entendermos como JS irá evoluir.
 
-If you are still looking for confidence with JavaScript, I highly recommend you read the other titles in this series first:
+Se você ainda está buscando confiança com JavaScript, eu recomendo fortemente que você leia os outros títulos desta série primeiro:
 
-* *Up & Going*: Are you new to programming and JS? This is the roadmap you need to consult as you start your learning journey.
-* *Scope & Closures*: Did you know that JS lexical scope is based on compiler (not interpreter!) semantics? Can you explain how closures are a direct result of lexical scope and functions as values?
+* *Up & Going*: Você é novo em programação e JS? Este é o roteiro que você precisa consultar quando você iniciar sua jornada de aprendizado.
+* *Scope & Closures*: Você sabia que o escopo léxico de JS é baseado em semântica de compilação (e não de interpretação!)?  Can you explain how closures are a direct result of lexical scope and functions as values?
 * *this & Object Prototypes*: Can you recite the four simple rules for how `this` is bound? Have you been muddling through fake "classes" in JS instead of adopting the simpler "behavior delegation" design pattern? Ever heard of *objects linked to other objects* (OLOO)?
 * *Types & Grammar*: Do you know the built-in types in JS, and more importantly, do you know how to properly and safely use coercion between types? How comfortable are you with the nuances of JS grammar/syntax?
 * *Async & Performance*: Are you still using callbacks to manage your asynchrony? Can you explain what a promise is and why/how it solves "callback hell"? Do you know how to use generators to improve the legibility of async code? What exactly constitutes mature optimization of JS programs and individual operations?
 
-If you've already read all those titles and you feel pretty comfortable with the topics they cover, it's time we dive into the evolution of JS to explore all the changes coming not only soon but farther over the horizon.
+Se você já leu todos esses títulos e se sente confortável com os tópicos que eles cobrem, é hora de mergulharmos na evolução do JS para explorar não apenas as mudanças que vêm, como também as que surgem no horizonte.
+
+Diferente de ES5, ES6 não é apenas um modesto conjunto de novas APIs adicionadas à linguagem. 
 
 Unlike ES5, ES6 is not just a modest set of new APIs added to the language. It incorporates a whole slew of new syntactic forms, some of which may take quite a bit of getting used to. There's also a variety of new organization forms and new API helpers for various data types.
 
